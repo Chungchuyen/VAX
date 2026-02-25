@@ -73,7 +73,7 @@ function getUrlList(slug, filtersJson) {
         var url = baseUrl + finalPath + (page > 1 ? "/page/" + page : "");
         return url;
     } catch (e) {
-        return "https://phimmoichill.my/danh-sach/phim-moi";
+        return "https://phimmoichill.my/list/phim-le";
     }
 }
 
