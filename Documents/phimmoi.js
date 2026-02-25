@@ -59,7 +59,7 @@ function getUrlList(slug, filtersJson) {
 
         // PhimMoiChill thường dùng cấu trúc /slug/page/2/
         if (slug === 'phim-moi') {
-            finalPath = "/danh-sach/phim-moi";
+            finalPath = "/list/phim-le";
         } else if (filters.category) {
             finalPath = "/list/" + filters.category;
         } else if (filters.country) {
