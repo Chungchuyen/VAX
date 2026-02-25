@@ -61,7 +61,7 @@ function getUrlList(slug, filtersJson) {
         if (slug === 'phim-moi') {
             finalPath = "/danh-sach/phim-moi";
         } else if (filters.category) {
-            finalPath = "/the-loai/" + filters.category;
+            finalPath = "/list/" + filters.category;
         } else if (filters.country) {
             finalPath = "/quoc-gia/" + filters.country;
         } else if (filters.year) {
