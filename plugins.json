@@ -86,8 +86,8 @@
             "iconUrl": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/clbpx.ico"
         },
         {
-            "id": "phimmoi",
-            "name": "Phim Moi",
+            "id": "phimmoichill",
+            "name": "PhimMoiChill",
             "version": "1.0.0",
             "scriptUrl": "https://raw.githubusercontent.com/Chungchuyen/VAX/refs/heads/main/Documents/phimmoi.js",
             "iconUrl": "https://phimmoichill.my/wp-content/uploads/2023/12/logo-pmc.png"
